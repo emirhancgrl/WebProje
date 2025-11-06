@@ -1,7 +1,6 @@
 # WebProje
 
-Ad : Emirhan
-Soyad: Cigerli
+Ad : Emirhan Cigerli
 Ogrenci NO : 25151513028
 Ders: Web tasarımın temelleri
 
